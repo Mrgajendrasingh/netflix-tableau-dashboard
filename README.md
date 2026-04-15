@@ -60,7 +60,7 @@ The dataset contains information about Netflix content including:
 ## 🔗 Project Links
 
 - 📁 GitHub Repository: https://github.com/Mrgajendrasingh/target-brazil-ecommerce-analysis
-- 🌐 Tableau Public: [*(Add your Tableau Public link here)*](https://public.tableau.com/views/Netflix_proj1/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- 🌐 Tableau Public: [*(Add your Tableau Public link here)*](https://public.tableau.com/views/Netflix_proj1/Netflix?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/shared/982WC2B5C?:display_count=n&:origin=viz_share_link)
 
 ---
 
